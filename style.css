@@ -2,22 +2,23 @@
 	width: 200px;
 	height: 200px;
 	border: 1px solid green;
-	border-radius: 20px;
+	border-radius: 10px 25px 40px 60px;
 }	
 
 
 #task_2 {
-	border-radius: 20px;
 	width: 200px;
 	height: 200px;
-	background-color: rgb(75, 207, 48) 
+	border: 1px solid green;
+	border-radius: 10px 25px;
 }
 
 #task_3 {
 	width: 200px;
 	height: 200px;
-	border-radius: 100px;
 	border: 1px solid green;
+	border-radius: 10px 25px 15px;
+	
 }
 
 

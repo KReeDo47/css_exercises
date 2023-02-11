@@ -1,8 +1,15 @@
 #task_1 {
-	width: 100px;
-	height: 100px;
-	border: 1px solid green;
-	border-radius: 50%;
+	background-image: url("bg.png");
+}	
+
+#task_2 {
+	background-image: url("bg.png");
+	background-repeat: repeat-y;
+}	
+
+#task_3 {
+	background-image: url("bg.png");
+	background-repeat: repeat-x;
 }	
 
 

@@ -1,11 +1,14 @@
-.ul1>li:not(.elem){
-	color: blue;
+#elem {
+	width: 200px;
+	height: 200px;
+	background-color: blueviolet;
 }
 
-.ul2>li:not( :first-child) {
-	color: greenyellow;
+#sent {
+	width: 250px;
+	height: 200px;
+	text-align: center;
+	color: white;
+	background-color: green;
 }
 
-.ul3>li:not( :nth-child(n+2):nth-child(-n+8) ) {
-	color: red;
-}

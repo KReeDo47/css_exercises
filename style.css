@@ -1,16 +1,16 @@
 #task_1 {
-	background-image: url("bg.png");
-}	
+	list-style-type: square;
+}
 
 #task_2 {
-	background-image: url("bg.png");
-	background-repeat: repeat-y;
-}	
+	list-style-type: circle;
+}
 
 #task_3 {
-	background-image: url("bg.png");
-	background-repeat: repeat-x;
-}	
+	list-style-type: none;
+}
+
+
 
 
 

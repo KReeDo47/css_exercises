@@ -1,14 +1,34 @@
-#elem {
+#task_1 {
+	border-width: 5px;
+	border-style: ridge;
+	border-color: blue;
 	width: 200px;
 	height: 200px;
-	background-color: blueviolet;
 }
 
-#sent {
-	width: 250px;
+#task_2 {
+	border-width: 5px;
+	border-style: dotted;
+	border-color: red;
+	width: 200px;
 	height: 200px;
-	text-align: center;
-	color: white;
-	background-color: green;
 }
+
+#task_3 {
+	border-width: 3px;
+	border-style: dashed;
+	border-color: yellow;
+	width: 200px;
+	height: 200px;
+}
+
+#task_4 {
+	border-width: 11px;
+	border-style: double;
+	border-color: blue;
+	width: 200px;
+	height: 200px;
+}
+
+
 

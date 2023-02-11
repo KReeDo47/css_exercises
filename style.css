@@ -1,12 +1,24 @@
-li{
-	border: 1px solid red;
-	list-style-type: circle;
+p:first-of-type {
+	color: greenyellow;
+}
+
+h2:last-of-type {
+	color: fuchsia;
+} 
+
+h2:nth-of-type(2) {
+	color:blueviolet;
+}
+
+h2:nth-last-of-type(2) {
+	color: yellow;
+}
+
+div {
+	border: 1px dashed black;
+	padding: 15px;
+	margin-bottom: 10px;
+}
+h2:only-of-type {
 	color: red;
-	width: 200px;
-}
-li:empty {
-	border: 1px solid blue;
-	list-style-type: circle;
-	color: blue;
-	width: 200px;
-}
+} 

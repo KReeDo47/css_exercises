@@ -1,43 +1,57 @@
-#parent {
-	width: 200px;
-	height: 250px;
-	border: 1px solid red;
+.Inst {
+    padding: 10px;
+    margin: 10px;
+    background: #08c;
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 20px;
 }
 
-#child {
-	width: 100px;
-	height: 100px;
-	border: 1px solid green;
-	margin-top: 50px;
-	margin-left: 50px;
-	margin-right: 50px;
+.Inst:hover {
+    background: #0af;
 }
 
-#parent1 {
-	width: 150px;
-	height: 150px;
-	border: 1px solid red;
+.one {
+    width: 200px;
+    border: 1px solid orange;
+}
+.two {
+    height: 80px;
+    border: 1px dashed blue;
+    margin: 20px 45px 100px 10px;
+    text-align: center;
 }
 
-#child1 {
-	margin-top: 37px;
-	margin-left: 15px;
-	margin-right: 15px;
-	margin-bottom: 37px;
-	height: 74px;
-	border: 1px solid green; 
+.one1 {
+    width: 200px;
+    border: 1px solid orange;
+}
+.two1 {
+    height: 50px;
+    border: 1px dashed blue;
+    margin: 30px 50px;
+    text-align: center;
 }
 
-#parent2 {
-	width: 200px;
-	border: 1px solid red;
+.one2 {
+    width: 200px;
+    border: 1px solid orange;
+}
+.two2 {
+    height: 50px;
+    border: 1px dashed blue;
+    margin: 100px 40px;
+    text-align: center;
 }
 
-#child2 {
-	height: 100px;
-	margin-top: 20px;
-	margin-left: 70px;
-	margin-right: 70px;
-	margin-bottom: 20px;
-	border: 1px solid green;
+.one3 {
+    width: 200px;
+    border: 1px solid orange;
+}
+.two3 {
+    height: 50px;
+    border: 1px dashed blue;
+    margin: 100px 30px 40px;
+    text-align: center;
 }

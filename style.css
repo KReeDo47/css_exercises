@@ -1,57 +1,20 @@
-.Inst {
-    padding: 10px;
-    margin: 10px;
-    background: #08c;
-    color: white;
-    font-weight: bold;
-    text-decoration: none;
-    font-size: 20px;
+#elem {
+	padding: 50px;
+	width: 200px;
+	border: 1px solid red;
+	text-align: justify;
 }
 
-.Inst:hover {
-    background: #0af;
+#elem1 {
+	padding: 15px;
+	width: 450px;
+	border: 1px solid green;
+	text-align: justify;
 }
 
-.one {
-    width: 200px;
-    border: 1px solid orange;
-}
-.two {
-    height: 80px;
-    border: 1px dashed blue;
-    margin: 20px 45px 100px 10px;
-    text-align: center;
-}
-
-.one1 {
-    width: 200px;
-    border: 1px solid orange;
-}
-.two1 {
-    height: 50px;
-    border: 1px dashed blue;
-    margin: 30px 50px;
-    text-align: center;
-}
-
-.one2 {
-    width: 200px;
-    border: 1px solid orange;
-}
-.two2 {
-    height: 50px;
-    border: 1px dashed blue;
-    margin: 100px 40px;
-    text-align: center;
-}
-
-.one3 {
-    width: 200px;
-    border: 1px solid orange;
-}
-.two3 {
-    height: 50px;
-    border: 1px dashed blue;
-    margin: 100px 30px 40px;
-    text-align: center;
+#elem2 {
+	padding: 5px;
+	width: 300px;
+	border: 1px solid red;
+	text-align: justify;
 }

@@ -1,20 +1,10 @@
 #elem {
-	padding: 50px;
+	padding-top: 50px;
+	padding-left: 30px;
+	padding-right: 30px;
+	padding-bottom: 100px;
+	
 	width: 200px;
-	border: 1px solid red;
-	text-align: justify;
-}
-
-#elem1 {
-	padding: 15px;
-	width: 450px;
-	border: 1px solid green;
-	text-align: justify;
-}
-
-#elem2 {
-	padding: 5px;
-	width: 300px;
 	border: 1px solid red;
 	text-align: justify;
 }

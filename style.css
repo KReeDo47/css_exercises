@@ -1,29 +1,19 @@
-#elem1 {
-	position: absolute;
-	top: 30px;
-	left: 30px;
-	width: 50px;
-	height: 50px;
-	background: #ff8888;
+#p1 {
+	width: 1550px;
+	text-align: justify;	
 }
 
-#elem2 {
-	position: absolute;
-	top: 60px;
-	left: 60px;
-	width: 50px;
-	height: 50px;
-	background: #7e89eb;
-	z-index: -1;
+#c1 {
+	float: left;
+	width: 100px;
 }
 
-#elem3 {
-	position: absolute;
-	top: 90px;
-	left: 90px;
-	width: 50px;
-	height: 50px;
-	background: #3df791;
+#c2 {
+	float: right;
+	width: 100px;
 }
+
+
+
 
 

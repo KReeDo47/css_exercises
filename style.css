@@ -1,18 +1,13 @@
-#p1 {
-	width: 1550px;
-	text-align: justify;	
+div {
+	width: 400px;
+	border: 1px solid red;
+	text-align: justify;
 }
 
-#c1 {
+img {
 	float: left;
 	width: 100px;
 }
-
-#c2 {
-	float: right;
-	width: 100px;
-}
-
 
 
 

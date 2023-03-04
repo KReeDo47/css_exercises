@@ -4,9 +4,14 @@ div {
 	text-align: justify;
 }
 
+p {
+	border: 1px solid green;
+}
+
 img {
 	float: left;
 	width: 100px;
+	opacity: 0.5;
 }
 
 

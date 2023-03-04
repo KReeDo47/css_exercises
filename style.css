@@ -1,22 +1,29 @@
 #elem1 {
-	display: block;
-    background: yellowgreen;
-    margin: 0;
-    padding: 20px;
-    text-align: center;
-    color: white;
-    position: fixed;
-    top: 0;
-    width: 100%;
+	position: absolute;
+	top: 30px;
+	left: 30px;
+	width: 50px;
+	height: 50px;
+	background: #ff8888;
 }
 
 #elem2 {
-	border: 2px solid yellowgreen;
-    padding: 20px;
-    margin: 75px auto;
-    width: 1300px;
-    text-align: justify;
-    font: 16px Arial;
-
+	position: absolute;
+	top: 60px;
+	left: 60px;
+	width: 50px;
+	height: 50px;
+	background: #7e89eb;
+	z-index: -1;
 }
+
+#elem3 {
+	position: absolute;
+	top: 90px;
+	left: 90px;
+	width: 50px;
+	height: 50px;
+	background: #3df791;
+}
+
 

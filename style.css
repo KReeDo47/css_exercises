@@ -1,16 +1,22 @@
-#parent {
-	position: relative;
-	width: 250px;
-	height: 200px;
-	margin: 25px auto;
-	border: 1px solid green;
-} 
+#elem1 {
+	display: block;
+    background: yellowgreen;
+    margin: 0;
+    padding: 20px;
+    text-align: center;
+    color: white;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
 
-#child {
-	position: absolute;
-	right: -50px;
-	width: 30px;
-	height: 30px;
-	border: 1px solid red;
+#elem2 {
+	border: 2px solid yellowgreen;
+    padding: 20px;
+    margin: 75px auto;
+    width: 1300px;
+    text-align: justify;
+    font: 16px Arial;
 
 }
+

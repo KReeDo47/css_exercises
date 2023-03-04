@@ -1,18 +1,16 @@
-#elem1 {
-	position: absolute;
-	top: 100px;
-	right: 100px;
-	bottom: 100px;
-	left: 100px;
+#parent {
+	position: relative;
+	width: 250px;
+	height: 200px;
+	margin: 25px auto;
 	border: 1px solid green;
-}
+} 
 
-#elem2 {
+#child {
 	position: absolute;
-	top: 100px;
-	right: 200px;
-	bottom: 50px;
-	left: 10px;
-	border: 1px solid blue;
-}
+	right: -50px;
+	width: 30px;
+	height: 30px;
+	border: 1px solid red;
 
+}

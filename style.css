@@ -1,21 +1,36 @@
-div {
-	width: 400px;
-	border: 1px solid red;
-	text-align: justify;
+.Ex{
+    margin: 0 auto;
+    height: 530px;
+    width: 900px;
+    background-color: rgb(255, 255, 255);
+    margin-bottom: 10px;
+    box-shadow: 0px 1px 10px rgba(0, 0, 0, 0.171);
+    font-size: 18px;
+    text-align: justify;
 }
-
-p {
-	margin-left: 30px;
-	padding-left: 30px;
-	border: 1px solid green;
-}
-
-img {
-	float: left;
-	width: 100px;
-	opacity: 0.5;
+h1{
+    text-align: center;
+    text-decoration: underline;
 }
 
 
-
-
+/* Ex.  1 */
+.ex1{
+    margin: 0 auto;
+    height: 435px;
+    width: 720px;
+    border: 2px solid black;
+}
+.img1{
+    float: left;
+    margin-right: 20px;
+	height: 135px;
+}
+.img2{
+    float: right;
+    margin: 20px 0px 20px 20px;
+	height: 135px;
+}
+p{
+    margin: 20px 20px;    
+}

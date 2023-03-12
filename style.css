@@ -15,22 +15,17 @@ h1{
 
 
 /* Ex.  1 */
-.ex1{
+.parent {
+    width: 600px;
     margin: 0 auto;
-    height: 435px;
-    width: 720px;
+    padding: 20px;
     border: 2px solid black;
 }
-.img1{
-    float: left;
-    margin-right: 20px;
-	height: 135px;
-}
-.img2{
+
+.child {
+    width: 100px;
+    height: 70px;
+    margin: 20px 20px 10px 20px;
     float: right;
-    margin: 20px 0px 20px 20px;
-	height: 135px;
-}
-p{
-    margin: 20px 20px;    
+    border: 2px solid green;
 }

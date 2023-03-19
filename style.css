@@ -1,31 +1,5 @@
-.salary {
-    padding: 10px;
-    margin: 10px;
-    background: #08c;
-    color: white;
-    font-weight: bold;
-    text-decoration: none;
-    font-size: 20px;
-    text-align: center;
-}
-.salary:hover {
-    background: #0af;
-}
+/* Пусть главная ось горизонтальна. Куда будет направлена поперечная ось?      Сверху вниз */
 
-.parent {
-    display: flex;
-    flex-direction: row-reverse;
-    width: 800px;
-    height: 300px;
-    border: 1px solid red;
-    text-align: justify;
-    
-}
-.child {
-    width: 100px;
-    height: 50px;
-    border: 1px solid green;
-}
-.clearfix {
-    clear: both;
-}
+/* Пусть главная ось вертикальна. Куда будет направлена поперечная ось?     Слева направо */
+
+/*  */

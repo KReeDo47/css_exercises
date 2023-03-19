@@ -13,18 +13,18 @@
 }
 
 .parent {
-    width: 500px;
-    border: 1px solid green;
+    display: flex;
+    flex-direction: row-reverse;
+    width: 800px;
+    height: 300px;
+    border: 1px solid red;
     text-align: justify;
     
 }
 .child {
-    float: left;
-    width: 200px;
-    height: 100px;
+    width: 100px;
+    height: 50px;
     border: 1px solid green;
-    margin: 15px;
-    text-align: center;
 }
 .clearfix {
     clear: both;
